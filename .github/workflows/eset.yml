@@ -27,7 +27,6 @@ on:
         type: choice
         options:
         - --key
-        - --endpoint-key
         - --small-business-key
         - --vpn-codes
         default: --key
